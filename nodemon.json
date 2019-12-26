@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "bemak",
+        "MONGO_PASSWORD": "hacker15",
+        "MONGO_DATABASE": "todolistapp-6uhpl.mongodb.net/test?retryWrites=true&w=majority"
+    }
+}
